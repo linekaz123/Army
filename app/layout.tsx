@@ -16,14 +16,14 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "BitePal — Calorie & Macro Tracker",
+  title: "LinePal — Calorie & Macro Tracker",
   description:
     "A free, gamified calorie and macro tracker with an AI food scanner and Kooky, your purple bunny companion. Borahae!",
   manifest: "/manifest.json",
   appleWebApp: {
     capable: true,
     statusBarStyle: "black-translucent",
-    title: "BitePal",
+    title: "LinePal",
   },
   icons: {
     icon: [

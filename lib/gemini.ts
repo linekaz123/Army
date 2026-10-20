@@ -28,7 +28,7 @@ const FOOD_SCHEMA = {
   required: ["name", "portion", "calories", "protein", "carbs", "fat", "confidence"],
 };
 
-const SYSTEM_PROMPT = `You are the nutrition-estimation engine inside BitePal, a friendly calorie and macro tracking app.
+const SYSTEM_PROMPT = `You are the nutrition-estimation engine inside LinePal, a friendly calorie and macro tracking app.
 Given either a food photo or a short text description, identify the food and estimate realistic nutrition values
 for the portion shown/described. Use typical home or restaurant serving sizes when portion size is ambiguous.
 If several items appear together, combine them into one sensible plate/meal estimate.

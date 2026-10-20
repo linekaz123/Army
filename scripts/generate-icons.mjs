@@ -1,4 +1,4 @@
-// Procedurally draws the BitePal mascot mark and encodes it as PNG using only
+// Procedurally draws the LinePal mascot mark and encodes it as PNG using only
 // Node's built-in zlib — no image dependencies required (keeps the stack 100% free).
 import { deflateSync } from "node:zlib";
 import { writeFileSync, mkdirSync } from "node:fs";

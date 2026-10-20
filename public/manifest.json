@@ -1,6 +1,6 @@
 {
-  "name": "BitePal — Calorie & Macro Tracker",
-  "short_name": "BitePal",
+  "name": "LinePal — Calorie & Macro Tracker",
+  "short_name": "LinePal",
   "description": "A free, gamified calorie and macro tracker with an AI food scanner and Kooky, your purple bunny companion.",
   "start_url": "/",
   "scope": "/",

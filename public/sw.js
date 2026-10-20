@@ -1,4 +1,4 @@
-const CACHE_VERSION = "bitepal-v1";
+const CACHE_VERSION = "linepal-v1";
 const APP_SHELL = ["/", "/manifest.json", "/icons/icon-192.png", "/icons/icon-512.png"];
 
 self.addEventListener("install", (event) => {

@@ -1,4 +1,4 @@
--- BitePal schema for Supabase (free tier Postgres).
+-- LinePal schema for Supabase (free tier Postgres).
 -- Run this in the Supabase SQL Editor for your project.
 
 create extension if not exists "uuid-ossp";

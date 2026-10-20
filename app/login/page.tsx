@@ -25,7 +25,7 @@ export default function LoginPage() {
         <Mascot mood="sleepy" size={100} />
         <h1 className="mt-4 text-lg font-bold">Accounts aren&apos;t set up yet</h1>
         <p className="mt-2 text-sm text-muted">
-          This BitePal install is running in guest mode. Add Supabase keys to .env.local to enable
+          This LinePal install is running in guest mode. Add Supabase keys to .env.local to enable
           accounts and cross-device sync — see the README.
         </p>
       </main>
@@ -64,7 +64,7 @@ export default function LoginPage() {
       <div className="mb-6 flex flex-col items-center">
         <Mascot mood="happy" size={110} />
         <h1 className="mt-3 text-xl font-bold">
-          {mode === "sign-in" ? "Welcome back" : "Join BitePal"}
+          {mode === "sign-in" ? "Welcome back" : "Join LinePal"}
         </h1>
         <p className="text-sm text-muted">Borahae — let&apos;s sync your bites 💜</p>
       </div>

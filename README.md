@@ -1,4 +1,4 @@
-# BitePal 💜
+# LinePal 💜
 
 A 100% free, gamified calorie & macro tracker PWA with an AI food scanner and
 **Kooky**, a purple bunny companion (BTS ARMY themed — Borahae!).

@@ -1,4 +1,4 @@
-const PREFIX = "bitepal:";
+const PREFIX = "linepal:";
 
 export function loadLocal<T>(key: string, fallback: T): T {
   if (typeof window === "undefined") return fallback;
